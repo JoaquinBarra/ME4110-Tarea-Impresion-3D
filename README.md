@@ -4,7 +4,7 @@ Este repositorio contiene el modelo y procedimiento para la fabricación de una 
 ## Descripción (Español)
 Prensa de banco escritorio para el trabajo ligero y/o sujeción de elementos livianos.
 
-Esta consta de dos componentes modelados para impresión en 3D, correspondientes a una madíbula movil y una mandíbula fija. Adicionalmente, debido al esfuerzo necesario, se requiere la implementación de dos hilos y tuercas de igual paso.
+Esta consta de dos componentes modelados para impresión en 3D, correspondientes a una madíbula movil y una mandíbula fija. Adicionalmente, debido al esfuerzo necesario, se requiere la implementación de dos hilos y tres tuercas de igual paso.
 
 ![Modelo de Prensa de Banco de Escritorio](/Imagenes/Prensa_de_banco.png)
 
@@ -13,7 +13,7 @@ La prensa tiene una longitud máxima de apertura de 120 mm.
 ## Description (English)
 Desk bench press for light work and/or fastening light items.
 
-This consists of two components modeled for 3D printing, corresponding to a mobile jaw and a fixed jaw. Additionally, due to the necessary effort, the implementation of three threads and nuts of equal pitch is required.
+This consists of two components modeled for 3D printing, corresponding to a mobile jaw and a fixed jaw. Additionally, due to the necessary effort, the implementation of two threads and three nuts of equal pitch is required.
 
 ![Desktop Bench Press Model](/Imagenes/Prensa_de_banco.png)
 
